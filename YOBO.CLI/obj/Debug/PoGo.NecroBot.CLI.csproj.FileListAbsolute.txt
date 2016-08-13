@@ -1,0 +1,1 @@
+C:\Users\ciamo\Source\Repos\NecroRC\PoGo.NecroBot.CLI\bin\Debug\NecroBot.exe.config
